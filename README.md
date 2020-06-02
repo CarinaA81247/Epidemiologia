@@ -67,5 +67,35 @@ Pasta | Conteúdo
 
 ![Mapa de novos casos Espanha](https://github.com/CarinaA81247/Epidemiologia/blob/master/Figuras/map_spain_casos_novos.png)
 
+## Portugal
+
+- Por fim, foram avaliados dados da doença em Portugal, estes dados foram lidos da base de dados em vez de lidos em documentos csv como os dados anteriores. Como exemplo de um dos gráficos feitos, pode observar-se a seguir o Número de Casos Confirmados por distrito.
+
+**Gráfico de casos confirmados por Distrito**
+
+![Casos Distrito](https://github.com/CarinaA81247/Epidemiologia/blob/master/Figuras/portugal_casos_distrito.png)
+
+- A partir de um geopackeg também recolhido da mesma fonte de dados, foi importado a camada referente ao mapa de Portugal com os casos confirmados por distrito.
+
+**Mapa de Portugal com casos confirmados por Distrito**
+
+![Mapa Portugal Distritos](https://github.com/CarinaA81247/Epidemiologia/blob/master/Figuras/map_portugal_casos_distrito.png)
+
+## Webgrafia
+
+- Todas as fontes de dados são apresentadas em cada notebook individualmente.
+
+## Trabalho Realizado por:
+
+Carina Gonçalves A81247 
+
+Mestrado Integrado em Engenharia Biomédica - Ramo de Informática Médica
+
+UC - Sistemas de Informação Geográficos 2019/2020
+
+## Data:
+
+02-06-2020
+
 
 
