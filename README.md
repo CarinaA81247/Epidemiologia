@@ -61,6 +61,10 @@ Pasta | Conteúdo
 
 ![Curva Logística](https://github.com/CarinaA81247/Epidemiologia/blob/master/Figuras/spain_logistic_curve.png)
 
+**Curva Gaussiana**
+
+![Cuva Gaussiana](https://github.com/CarinaA81247/Epidemiologia/blob/master/Figuras/spain_gaussiana.png)
+
 - Relativamente a Espanha foram também criados alguns mapas, como o que se pode ver na próxima figura.
 
 **Mapa de Espanha com os novos casos para o dia 24-05-2020**
