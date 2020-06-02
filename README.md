@@ -43,3 +43,17 @@ Pasta | Conteúdo
 
 ![Mulheres Fumadoras](https://github.com/CarinaA81247/Epidemiologia/blob/master/Figuras/10_countrie_global_female_smokers.png)
 
+## Espanha
+
+- Foram analisados também os dados relativos a Espanha. Apresentando-se aqui alguns desses gráficos também.
+
+**Gráfico do Total de mortes por dia na Espanha**
+
+![Mortes Espanha](https://github.com/CarinaA81247/Epidemiologia/blob/master/Figuras/sapin_total_deaths.png)
+
+**Gráfico dos casos confirmados por comunidades Autónomas da Espanha**
+
+![Casos por CCAA](https://github.com/CarinaA81247/Epidemiologia/blob/master/Figuras/spain_cases_ccaa.png)
+
+
+
