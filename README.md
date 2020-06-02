@@ -30,7 +30,7 @@ Pasta | Conteúdo
 
 ## Análise das estatísticas mundiais
 
-- Inicialmente é apresentado um mapa mundo com os casos confirmados até ao dia 31-05-2020. Este mapa, assim como outros, foi elaborado no Qgis e importado com um geopackeg para o Jupyter notebook.
+- Inicialmente é apresentado um mapa mundo com os casos confirmados até ao dia 31-05-2020. Este mapa, assim como outros, foi elaborado no Qgis e importado com um Geopackge para o Jupyter notebook.
 
 ![Mapa Mundo com casos confirmados](https://github.com/CarinaA81247/Epidemiologia/blob/master/Figuras/global_map_confirmed.png)
 
@@ -40,7 +40,7 @@ Pasta | Conteúdo
 
 - Uma vez que esta doença pode causar infeção respiratória grave ou pneumonia, sabe-se que pessoas que têm hábito de fumar são pessoas que podem estar em risco. Desta forma, foram criados gráficos com os 10 países com elevada percentagem de mulheres fumadoras e homens fumadores. Assim como outras características relacionadas com a covid-19 também foram representadas. A título de exemplo, é apresentado a seguir o gráfico com os 10 países com maiores percentagens de mulheres fumadoras.
 
-**Gráfico dos 10 países com maiores percentagenns de mulheres fumadoras**
+**Gráfico dos 10 países com maiores percentagens de mulheres fumadoras**
 
 ![Mulheres Fumadoras](https://github.com/CarinaA81247/Epidemiologia/blob/master/Figuras/10_countrie_global_female_smokers.png)
 
