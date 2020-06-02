@@ -81,6 +81,8 @@ Pasta | Conteúdo
 
 ![Mapa Portugal Distritos](https://github.com/CarinaA81247/Epidemiologia/blob/master/Figuras/map_portugal_casos_distrito.png)
 
+- Em conclusão, apenas referir que outras abordagens gráficas e elaboração de mapas são evidenciadas nos notebooks.
+
 ## Webgrafia
 
 - Todas as fontes de dados são apresentadas em cada notebook individualmente.
