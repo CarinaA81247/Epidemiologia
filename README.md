@@ -4,6 +4,7 @@ COVID-19 é o nome, atribuído pela Organização Mundial da Saúde, à doença 
 De modo a avaliar todas as competências lecionadas na UC de Sistemas de Informação Geograficos, foi realizado um projeto que se foca em análises estátisicas desta doença Mundialmente e em dois países, Portugal e Espanha.
 
 - São apresentadas 4 pastas neste repositório:
+
 Pasta | Conteúdo
 ------------ | -------------
 Content from cell 1 | Content from cell 2
