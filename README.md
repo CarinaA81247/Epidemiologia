@@ -55,5 +55,17 @@ Pasta | Conteúdo
 
 ![Casos por CCAA](https://github.com/CarinaA81247/Epidemiologia/blob/master/Figuras/spain_cases_ccaa.png)
 
+- Os dados de Espanha relativamente aos casos confirmados foram ajustados a uma curva logística de modo a prever os próximos dias. No mesmo nootebook é possível encontrar curvas logísticas ajustadas a outros dados e também curvas gaussianas.
+
+**Curva Logística**
+
+![Curva Logística](https://github.com/CarinaA81247/Epidemiologia/blob/master/Figuras/spain_logistic_curve.png)
+
+- Relativamente a Espanha foram também criados alguns mapas, como o que se pode ver na próxima figura.
+
+**Mapa de Espanha com os novos casos para o dia 24-05-2020**
+
+![Mapa de novos casos Espanha](https://github.com/CarinaA81247/Epidemiologia/blob/master/Figuras/map_spain_casos_novos.png)
+
 
 
