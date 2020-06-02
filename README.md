@@ -33,4 +33,8 @@ Inicialmente é apresentado um mapa mundo com os casos confirmados até ao dia 3
 
 ![Mapa Mundo com casos confirmados](https://github.com/CarinaA81247/Epidemiologia/blob/master/Figuras/global_map_confirmed.png)
 
+Foram estruturados alguns gráficos com estatísticas relativas aos 10 países com mais casos confirmados e mais mortes.
+
+![10 países com mais casos confirmados](https://github.com/CarinaA81247/Epidemiologia/blob/master/Figuras/10_countrie_global_confirmed.png) ![10 países com mais mortes](https://github.com/CarinaA81247/Epidemiologia/blob/master/Figuras/10_countrie_global_death.png)
+
 
