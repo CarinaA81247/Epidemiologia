@@ -21,10 +21,16 @@ Pasta | Conteúdo
 
 🗂️[Espanha_curvas_logisticas_gaussianas.ipynb](https://github.com/CarinaA81247/Epidemiologia/blob/master/Notebooks/Espanha_curvas_logisticas_gaussianas.ipynb) - Onde são apresentadadas curvas logísticas e gaussianas ajustadas aos dados de Espanha.
 
-🗂️[Estatisticas_mundiais_espanha.ipynb](https://github.com/CarinaA81247/Epidemiologia/blob/master/Notebooks/Estatisticas_mundiais_espanha.ipynb)
+🗂️[Estatisticas_mundiais_espanha.ipynb](https://github.com/CarinaA81247/Epidemiologia/blob/master/Notebooks/Estatisticas_mundiais_espanha.ipynb) - Aqui são apresentadas estatísticas relativas a dados mundiais e mais específicas apenas relativas a Espanha.
 
-🗂️[Global_map.ipynb](https://github.com/CarinaA81247/Epidemiologia/blob/master/Notebooks/Global_map.ipynb)
+🗂️[Global_map.ipynb](https://github.com/CarinaA81247/Epidemiologia/blob/master/Notebooks/Global_map.ipynb) - Neste notebook foram elaborados alguns mapas mundo com alguns dados relativos à doença.
 
-🗂️[Mapas_Espanha.ipynb](https://github.com/CarinaA81247/Epidemiologia/blob/master/Notebooks/Mapas_Espanha.ipynb)
+🗂️[Mapas_Espanha.ipynb](https://github.com/CarinaA81247/Epidemiologia/blob/master/Notebooks/Mapas_Espanha.ipynb) - Aqui foram elaborados mapas de Espanha.
+
+## Análise das estatísticas mundiais
+
+Inicialmente é apresentado um mapa mundo com os casos confirmados até ao dia 31-05-2020. Este mapa, assim como outros, foi elaborado no Qgis e importado com um geopackeg para o Jupyter notebook.
+
+![Mapa Mundo com casos confirmados](https://github.com/CarinaA81247/Epidemiologia/blob/master/Figuras/global_map_confirmed.png)
 
 
