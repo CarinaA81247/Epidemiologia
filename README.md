@@ -14,6 +14,7 @@ Pasta | Conteúdo
 [Notebooks](https://github.com/CarinaA81247/Epidemiologia/tree/master/Notebooks) | Contém todos os nootebooks elaborados.
 
 - Foram elaborados 6 notebooks:
+
 🗂️[Covid-19_EspanhaGráficos.ipynb](https://github.com/CarinaA81247/Epidemiologia/blob/master/Notebooks/Covid-19_EspanhaGr%C3%A1ficos.ipynb) - Onde são apresentadas algumas estatísticas por comunidades autónomas de Espanha.
 
 🗂️[Covid-19_Portugal.ipynb](https://github.com/CarinaA81247/Epidemiologia/blob/master/Notebooks/Covid-19_Portugal.ipynb) - Onde são apresentadas algumas estatisticas relativas aos dados de Portugal.
