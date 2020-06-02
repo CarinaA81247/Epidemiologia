@@ -7,10 +7,23 @@ De modo a avaliar todas as competências lecionadas na UC de Sistemas de Informa
 
 Pasta | Conteúdo
 ------------ | -------------
-[Data](https://github.com/CarinaA81247/Epidemiologia/tree/master/Data) | Contém todos os datasets usados nos notebooks
-[Exercícios](https://github.com/CarinaA81247/Epidemiologia/tree/master/Exercic%C3%ADos) | Contém todos os exercícios iniciais da UC
-[Geopackges e Shapes](https://github.com/CarinaA81247/Epidemiologia/tree/master/Geopackges%20e%20shapes) | Contém todos geopackges usados para realização de mapas nos notebooks e as shapes que foram utilizadas
-[Figuras](https://github.com/CarinaA81247/Epidemiologia/tree/master/Figuras) | Contém todas as figuras utilizadas nesta página
-[Notebooks](https://github.com/CarinaA81247/Epidemiologia/tree/master/Notebooks) | Contém todos os nootebooks elaborados
+[Data](https://github.com/CarinaA81247/Epidemiologia/tree/master/Data) | Contém todos os datasets usados nos notebooks.
+[Exercícios](https://github.com/CarinaA81247/Epidemiologia/tree/master/Exercic%C3%ADos) | Contém todos os exercícios iniciais da UC.
+[Geopackges e Shapes](https://github.com/CarinaA81247/Epidemiologia/tree/master/Geopackges%20e%20shapes) | Contém todos geopackges usados para realização de mapas nos notebooks e as shapes que foram utilizadas.
+[Figuras](https://github.com/CarinaA81247/Epidemiologia/tree/master/Figuras) | Contém todas as figuras utilizadas nesta página.
+[Notebooks](https://github.com/CarinaA81247/Epidemiologia/tree/master/Notebooks) | Contém todos os nootebooks elaborados.
+
+- Foram elaborados 6 notebooks:
+🗂️[Covid-19_EspanhaGráficos.ipynb](https://github.com/CarinaA81247/Epidemiologia/blob/master/Notebooks/Covid-19_EspanhaGr%C3%A1ficos.ipynb) - Onde são apresentadas algumas estatísticas por comunidades autónomas de Espanha.
+
+🗂️[Covid-19_Portugal.ipynb](https://github.com/CarinaA81247/Epidemiologia/blob/master/Notebooks/Covid-19_Portugal.ipynb) - Onde são apresentadas algumas estatisticas relativas aos dados de Portugal.
+
+🗂️[Espanha_curvas_logisticas_gaussianas.ipynb](https://github.com/CarinaA81247/Epidemiologia/blob/master/Notebooks/Espanha_curvas_logisticas_gaussianas.ipynb) - Onde são apresentadadas curvas logísticas e gaussianas ajustadas aos dados de Espanha.
+
+🗂️[Estatisticas_mundiais_espanha.ipynb](https://github.com/CarinaA81247/Epidemiologia/blob/master/Notebooks/Estatisticas_mundiais_espanha.ipynb)
+
+🗂️[Global_map.ipynb](https://github.com/CarinaA81247/Epidemiologia/blob/master/Notebooks/Global_map.ipynb)
+
+🗂️[Mapas_Espanha.ipynb](https://github.com/CarinaA81247/Epidemiologia/blob/master/Notebooks/Mapas_Espanha.ipynb)
 
 
